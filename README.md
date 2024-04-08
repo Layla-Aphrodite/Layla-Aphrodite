@@ -1,5 +1,11 @@
 👋 Hi, This is Layla
 
+
+
+### How to Reach Me 📫
+[<img width="80" alt="linkedin" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/39064f9e-e95a-4445-ab25-0c1b160d3ae9">](https://www.linkedin.com/in/laylayuan/)
+
+
 ### About Me
 I'm thrilled to introduce myself pursuing career as a passionate financial analyst with a keen interest in programming. My journey in the realm of finance began with a deep-seated curiosity about economic systems, market dynamics, and the intricate web of numbers that govern our global economy.
 
@@ -27,23 +33,12 @@ My ultimate goal is to contribute to the development of innovative solutions tha
 ### Tools for Data Analysis
 | MySQL | SQLite | Stata | Jupyter | Cognos | Power BI |
 |-------|-----|-------|---------|--------|----------|
-| <img width="100" alt="MySQL" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/d45517c3-617d-4cd8-a09f-c225892aa3b7">|<img width="90" alt="SQL" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/40cac9f7-629c-4a7e-b73e-c79e220bd257"> |<img width="80" alt="stata" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/385f8a46-73e4-4fb5-9bd4-66f5a29be900"> |<img width="80" alt="jupter" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/607ec62f-a545-4755-9e59-72f6452b9911">|
-
-
-
-<img width="501" alt="numpy" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/86e3c126-462c-443b-9b90-0e1e4424a558">
+| <img width="100" alt="MySQL" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/d45517c3-617d-4cd8-a09f-c225892aa3b7">|<img width="90" alt="SQL" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/40cac9f7-629c-4a7e-b73e-c79e220bd257"> |<img width="80" alt="stata" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/385f8a46-73e4-4fb5-9bd4-66f5a29be900"> |<img width="80" alt="jupter" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/607ec62f-a545-4755-9e59-72f6452b9911">|<img width="120" alt="cognos" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/7cf81de4-3fbc-470f-af1e-107538e04cac">|<img width="110" alt="power bi" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/fda90c8d-05db-4285-804e-5a802363c73b">|
 
 
 
 
 
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Layla-Aphrodite/Layla-Aphrodite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
