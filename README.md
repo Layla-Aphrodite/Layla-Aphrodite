@@ -39,7 +39,7 @@ My ultimate goal is to contribute to the development of innovative solutions tha
 ### Other Tools I Use
 | VS | Django |
 |----|--------|
-|<img width="80" alt="VS" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/9a706aa6-717c-4757-a5e7-d67b6ac04728">|<img width=“10” alt="django" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/249c9054-9e6c-4b8b-acf5-642a60894479">|
+|<img width="80" alt="VS" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/9a706aa6-717c-4757-a5e7-d67b6ac04728">|<img width="90" alt="django" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/249c9054-9e6c-4b8b-acf5-642a60894479">|
 
 
 
