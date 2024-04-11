@@ -42,9 +42,10 @@ My ultimate goal is to contribute to the development of innovative solutions tha
 
 
 ### Other Tools I Use
-| VS | Django | IBM DB |
-|----|--------|--------|
-|<img width="50" alt="VS" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/9a706aa6-717c-4757-a5e7-d67b6ac04728">|<img width="70" alt="django" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/249c9054-9e6c-4b8b-acf5-642a60894479">| <img width='80' alt='db' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/1e4a9edf-4c6c-4819-8845-e43cfc2421cc'> |
+| VS | R Studio | Django | IBM DB |
+|----|--------|--------|----------|
+|<img width="50" alt="VS" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/9a706aa6-717c-4757-a5e7-d67b6ac04728">|<img width="50" alt="Studio" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/140865ca-519a-41b9-afce-2e859f7f8726">|<img width="70" alt="django" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/249c9054-9e6c-4b8b-acf5-642a60894479">| <img width='80' alt='db' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/1e4a9edf-4c6c-4819-8845-e43cfc2421cc'> |
+
 
 ### My Financial Skills
 | Regression Analysis | Financial Reporting | Accounting | Risk Management | Valuation | Project Evaluation | Singapore Taxation | Audit |
