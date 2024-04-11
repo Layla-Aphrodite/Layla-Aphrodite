@@ -18,15 +18,21 @@ My ultimate goal is to contribute to the development of innovative solutions tha
 
 ## Language and Tools
 ### Language
-| Python | JS |
-|--------|----|
-|<img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png" alt="[drawing](https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png)" width="110"/> | <img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" alt="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" width="60"/>
+| Python | R | JS |
+|--------|----|---|
+|<img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png" alt="[drawing](https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png)" width="110"/> |<img width="70" alt="r" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/51b42f88-08b7-47a2-989e-59dc92dd95f5)">| <img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" alt="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" width="60"/>
+
 
 
 ### Libs for Python3
 | Pandas | NumPy | Beautiful Soup | Matplotlib | SciPy | Seaborn| Pygame |
 |--------|-------|----------------|------------|-------|--------|--------|
 | <img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a8114f03-308e-424e-8855-0b2f22693a6a.jpg" alt="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a8114f03-308e-424e-8855-0b2f22693a6a" width="100"/> | <img width="80" alt="numpy" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/86e3c126-462c-443b-9b90-0e1e4424a558"> | <img width="120" alt="bs" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/56230162-f8e6-488d-9e60-5caf6a04017e"> |<img width="90" alt="matplot" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/d6bf6183-84ee-4460-8bb0-288edcebde18"> | <img width="60" alt="scipy" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a508aac9-172d-46da-9a3f-4bf8dbbbf9fc"> |<img width="60" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/eeb95961-f2aa-486b-9c59-b66d864944a1"> |<img width="130" alt="Pygame" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/14828c94-05a7-417f-a312-d143d857eec7">
+
+### Libs for R
+| dplyr | string | ggplot | 
+|--------|-------|----------------|
+|<img width="60" alt="dplyr" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/05a5f8dd-cd34-442a-aa29-ef0aff5e42f0">|<img width="60" alt="string" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/47b3bbb6-a0a9-4532-a73b-eafc4aa405ea">|<img width="60" alt="ggplot" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/f5733d4c-8b1e-4f04-a296-0593712f73ee">|
 
 
 ### Tools for Data Analysis
