@@ -19,14 +19,14 @@ My ultimate goal is to contribute to the development of innovative solutions tha
 ## Language and Tools
 ### Language
 | Python | R | JS |
-|--------|----|---|
+|:--------:|:----:|:---:|
 |<img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png" alt="[drawing](https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png)" width="110"/> |<img width="70" alt="r" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/51b42f88-08b7-47a2-989e-59dc92dd95f5)">| <img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" alt="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" width="60"/>
 
 
 ### Libs for Python3
 | Pandas | NumPy | Scikit Learn|  Matplotlib | SciPy | Seaborn| Statsmodels| 
-|--------|-------|----------------|------------|-------|--------|--------|
-| <img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a8114f03-308e-424e-8855-0b2f22693a6a.jpg" alt="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a8114f03-308e-424e-8855-0b2f22693a6a" width="100"/> | <img width="80" alt="numpy" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/86e3c126-462c-443b-9b90-0e1e4424a558"> |<img width="80" alt="scikit learn" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/d8a073ba-86b3-4cc4-b8ed-4543b835e355"> | <img width="90" alt="matplot" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/d6bf6183-84ee-4460-8bb0-288edcebde18"> | <img width="55" alt="scipy" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a508aac9-172d-46da-9a3f-4bf8dbbbf9fc"> |<img width="55" alt="seaborn" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/eeb95961-f2aa-486b-9c59-b66d864944a1"> | <img width="40" alt="statsmodel" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/b793887e-e678-4e54-8252-9bfbd61ec088"> |
+|:--------:|:-------:|:----------------:|:------------:|:-------:|:--------:|:--------:|
+| <img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a8114f03-308e-424e-8855-0b2f22693a6a.jpg" alt="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a8114f03-308e-424e-8855-0b2f22693a6a" width="100"/> | <img width="80" alt="numpy" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/86e3c126-462c-443b-9b90-0e1e4424a558"> |<img width="80" alt="scikit learn" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/d8a073ba-86b3-4cc4-b8ed-4543b835e355"> | <img width="90" alt="matplot" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/d6bf6183-84ee-4460-8bb0-288edcebde18"> | <img width="55" alt="scipy" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a508aac9-172d-46da-9a3f-4bf8dbbbf9fc"> |<img width="55" alt="seaborn" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/eeb95961-f2aa-486b-9c59-b66d864944a1"> | <img width="47" alt="statsmodel" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/b793887e-e678-4e54-8252-9bfbd61ec088"> |
 
 |Beautiful Soup | PyTest | Pygame |
 |---|----| ---|
@@ -52,7 +52,7 @@ My ultimate goal is to contribute to the development of innovative solutions tha
 
 ### My Financial Skills
 | Regression Analysis | Financial Reporting | Accounting | Risk Management | Valuation | Project Evaluation | Singapore Taxation | Audit |
-|---------------------|---------------------|------------|-----------------|-----------|--------------------|--------------------|-------|
+|:---------------------:|:---------------------:|:------------:|:-----------------:|:-----------:|:--------------------:|:-------------------:|:-------:|
 |<img width="70" alt='ra' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/5744c903-5aeb-47a0-b15f-059f3899837d'>| <img width='70' alt='fr' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/f76346e2-fb08-4758-b357-007883597b89'> |<img width='70' alt='acc' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/5cb23b82-c657-4de9-9192-b794325d7c47'> |<img width='70' alt='rm' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/1db5febc-5846-481e-996b-bf9f597c39f9'> |<img width='70' alt='valuation' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/cafadde5-54a5-49b0-89bd-5173d6173128'> |<img width='70' alt='pe' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/9e264545-de87-4259-9df5-103ea45ea242'> |<img width='70' alt='tax' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/fcc94d0c-170d-4fb0-b0b3-a2e80b80191b'>|<img width='100' alt='audit' src='https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/42943653-80c3-4f1e-b443-25ddf6dd5afe'> |
 
 
