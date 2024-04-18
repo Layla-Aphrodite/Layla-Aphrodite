@@ -20,7 +20,7 @@ My ultimate goal is to contribute to the development of innovative solutions tha
 ### Language
 | Python | R | JS |
 |:--------:|:----:|:---:|
-|<img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png" alt="[drawing](https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png)" width="110"/> |<img width="70" alt="r" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/51b42f88-08b7-47a2-989e-59dc92dd95f5)">| <img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" alt="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" width="60"/>
+|<img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png" alt="[drawing](https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/a9aa6213-2c70-40dc-8367-f194f1f585d4.png)" width="110"/> |<img width="60" alt="r" src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/51b42f88-08b7-47a2-989e-59dc92dd95f5)">| <img src="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" alt="https://github.com/Layla-Aphrodite/Layla-Aphrodite/assets/163326456/0c7e8855-8753-45ba-ae3c-e1a724dd24eb.png" width="50"/>
 
 
 ### Libs for Python3
