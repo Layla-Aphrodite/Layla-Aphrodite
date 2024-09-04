@@ -6,15 +6,35 @@
 
 
 ### About Me
-I'm thrilled to introduce myself pursuing career as a passionate financial analyst with a keen interest in programming. My journey in the realm of finance began with a deep-seated curiosity about economic systems, market dynamics, and the intricate web of numbers that govern our global economy.
+I'm thrilled to introduce myself pursuing career as a passionate auditor with a keen interest in programming. 
+Data Analytics has become a crucial tool in modern auditing, analytical and data-driven mindset enhances the efficiency and effectivemess of the audit process in several ways:
 
-My academic pursuit in finance provided me with a solid foundation in understanding financial statements, risk management, and investment strategies. However, as I delved deeper into the field, I realized the increasing importance of technology and data analysis in making informed financial decisions.
+#### Risk Assessment:
+Auditors use data analytics to assess risk areas by analyzing large volumes of data to identify patterns, trends, or abnomalies that may indicate potential issues.
+
+#### Transaction Testing
+Data analytics allows auditors to test 100% of transactions rather than just samples. This comprehensive approach helps in detecting errors or fraud that might be misses with traditional sampling methods.
+
+#### Fraud Detection
+By analyzing transaction patterns and trends, auditors can identify unusual activities that may suggest fraudulent behavior.
+
+#### Internal Controls Evaluation
+Data analytics helps in evaluating the effectiveness of internal controls by examing data for compliance with established control procedures.
+
+#### Trend Analysis
+Auditors use trend analysis to compare financial information over time, helping to identify any deviations from expected patterns or industry benchmarks.
+
+#### Data Visualization
+Advanced data analytics tools provide visual representations of data, making it easier for auditors to undrstand and communicate findings.
+
+#### Predictive Analytics
+This involves using historical data to predict future trends or risks, which can help in proactive decision-making and risk management.
+
 
 Driven by this realization, I embarked on a parallel journey into the world of programming. Equipped with languages like Python, R, and SQL, I've been able to leverage automation and data visualization tools to streamline processes, analyze large datasets, and extract valuable insights.
 
-Through my dual expertise in finance and programming, I aim to bridge the gap between traditional financial analysis and cutting-edge technological advancements. By incorporating programming techniques into financial modeling, I strive to enhance efficiency, accuracy, and decision-making capabilities within the finance industry.
+Through my dual expertise in auditing and programming, I aim to embrace the transformative power of data analytics in enhancing audit practices. 
 
-My ultimate goal is to contribute to the development of innovative solutions that empower businesses and individuals to navigate the complexities of the financial landscape with confidence and clarity.
 
 ## Language and Tools
 ### Language
